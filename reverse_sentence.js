@@ -23,6 +23,7 @@ function reverseWords(arr) {
   return solution
 }
 
-let arr = [ 'p', 'e', 'r', 'f', 'e', 'c', 't', '  ','m', 'a', 'k', 'e', 's', '  ', 'p', 'r', 'a', 'c', 't', 'i', 'c', 'e' ]
+let arr1 = [ 'p', 'e', 'r', 'f', 'e', 'c', 't', '  ','m', 'a', 'k', 'e', 's', '  ', 'p', 'r', 'a', 'c', 't', 'i', 'c', 'e' ]
+let arr2 = ["y","o","u","  ","w","i","t","h","  ","b","e"," ","f","o","r","c","e","  ","t","h","e","  ","m","a","y"]
 
-reverseWords(arr)
+reverseWords(arr2)
